@@ -10,4 +10,4 @@ In this assignment, you'll create a burger logger with MySQL, Node, Express, Han
 
 ## Instructions
 
-this app is now deployed to Heroku: [https://hidden-plains-21447.herokuapp.com/]
+this app is now deployed to Heroku: https://hidden-plains-21447.herokuapp.com/
