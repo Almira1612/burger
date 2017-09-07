@@ -8,5 +8,6 @@ In this assignment, you'll create a burger logger with MySQL, Node, Express, Han
 - Each burger in the waiting area can click to devour. When the user clicks it, the burger will move to the right side of the page.
 - Your app will store every burger in a database, whether devoured or not.
 
-##Instructions
+## Instructions
+
 this app is now deployed to Heroku: [https://hidden-plains-21447.herokuapp.com/]
