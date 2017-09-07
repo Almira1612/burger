@@ -11,3 +11,13 @@ In this assignment, you'll create a burger logger with MySQL, Node, Express, Han
 ## Instructions
 
 this app is now deployed to Heroku: https://hidden-plains-21447.herokuapp.com/
+
+To run the application locally, first clone this repository with the following command.
+
+- git clone https://github.com/Almira1612/burger.git
+- cd burger
+- npm install
+- run the node server locally.
+node server.js
+
+Now, open the local application on port 3000 at the URL: http://localhost:3000/.
