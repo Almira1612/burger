@@ -9,4 +9,4 @@ In this assignment, you'll create a burger logger with MySQL, Node, Express, Han
 - Your app will store every burger in a database, whether devoured or not.
 
 ##Instructions
-
+this app is now deployed to Heroku: [https://hidden-plains-21447.herokuapp.com/]
